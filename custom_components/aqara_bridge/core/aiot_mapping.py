@@ -198,7 +198,6 @@ AIOT_DEVICE_MAPPING = [
     {
         # 卡农 智能墙壁开关 Z1 Pro（单键版）
         "lumi.switch.acn056": ["Aqara", "KN Wall Switch Z1 Pro (Single Rocker)", ""],
-        "lumi.gateway.sgwacn01": ["Aqara", "KN Wall Switch", "c"],
         "params": [
             {
                 "switch": {
